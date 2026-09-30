@@ -1,4 +1,4 @@
-# Project 2 - BeReal Pt1
+# Project 3 - BeReal Pt2
 
 Submitted by: Saraivah Marcelin
 
@@ -31,7 +31,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
  
 
-https://www.youtube.com/shorts/lXl4VBnirvc
+https://www.youtube.com/shorts/y26oyNc9tJQ
 
 
 
